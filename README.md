@@ -73,11 +73,6 @@ breast-cancer-diagnosis/
 │   ├── preprocess.py              # Data cleaning & encoding
 │   ├── model.py                   # Train & evaluate logistic regression
 │   └── utils.py                   # Visualization & helpers
-│
-├── outputs/
-│   ├── figures/                   # Plots: ROC, confusion matrix, etc.
-│   └── model/                     # Saved models
-│
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
