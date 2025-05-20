@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env.bak/
+env/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Dataset files (optional: if large or private)
+data/*.csv
+data/*.xlsx
+
+# Model outputs
+outputs/
+*.pkl
+*.joblib
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Requirements freeze
+pip-log.txt
+pip-delete-this-directory.txt
+
+outputs/models/*
+outputs/logs/*
+*.pkl
+*.log
