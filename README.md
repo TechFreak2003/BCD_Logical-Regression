@@ -93,6 +93,12 @@ Example outputs include:
 - **Confusion Matrix**: True Positives / False Negatives breakdown
 - **ROC-AUC**: Area under the curve visualized
 
+<p align="center">
+  <img src="images/predictive_models_bcd.webp" alt="Predictive Models for Breast Cancer Diagnosis" width="700"/>
+</p>
+
+> 📌 Overview of the ML pipeline including logistic regression and other models
+
 > 📌 Include your actual metrics or screenshots after model evaluation
 
 ## 👥 Contributing
