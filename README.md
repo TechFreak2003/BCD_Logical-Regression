@@ -94,7 +94,7 @@ Example outputs include:
 - **ROC-AUC**: Area under the curve visualized
 
 <p align="center">
-  <img src="images/predictive_models_bcd.webp" alt="Predictive Models for Breast Cancer Diagnosis" width="700"/>
+  <img src="images/predictive_models_bcd.png" alt="Predictive Models for Breast Cancer Diagnosis" width="700"/>
 </p>
 
 > 📌 Overview of the ML pipeline including logistic regression and other models
